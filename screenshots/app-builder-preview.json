@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aria Incarnated",
+      "hasCanvas": false,
+      "bodyTextLen": 210,
+      "bodyTextHash": "8073527a69d418878ae9ddb1785cde04198401710ee8b0173a3c470634e8a133",
+      "bodyTextPrefix": "ARIYAHUS SPEAKS Aria Incarnated Walk the thirteen shrines. Hear ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aria Incarnated",
+      "hasCanvas": false,
+      "bodyTextLen": 210,
+      "bodyTextHash": "8073527a69d418878ae9ddb1785cde04198401710ee8b0173a3c470634e8a133",
+      "bodyTextPrefix": "ARIYAHUS SPEAKS Aria Incarnated Walk the thirteen shrines. Hear ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
